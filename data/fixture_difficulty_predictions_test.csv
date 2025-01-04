@@ -1,0 +1,761 @@
+Team,Opponent,Was_Home,Team_FDR,Opponent_FDR
+Man City,Burnley,False,1,5
+Burnley,Man City,True,4,2
+Nott'm Forest,Arsenal,False,1,5
+Arsenal,Nott'm Forest,True,4,2
+Bournemouth,West Ham,True,5,1
+West Ham,Bournemouth,False,1,5
+Brighton,Luton,True,4,2
+Luton,Brighton,False,1,5
+Everton,Fulham,True,5,1
+Fulham,Everton,False,2,4
+Newcastle,Aston Villa,True,5,1
+Aston Villa,Newcastle,False,1,5
+Sheffield Utd,Crystal Palace,True,5,1
+Crystal Palace,Sheffield Utd,False,1,5
+Brentford,Spurs,True,5,1
+Spurs,Brentford,False,2,4
+Liverpool,Chelsea,False,1,5
+Chelsea,Liverpool,True,3,3
+Man Utd,Wolves,True,5,1
+Wolves,Man Utd,False,2,4
+Aston Villa,Everton,True,3,3
+Everton,Aston Villa,False,1,5
+Arsenal,Crystal Palace,False,1,5
+Crystal Palace,Arsenal,True,3,3
+Brentford,Fulham,False,1,5
+Fulham,Brentford,True,5,1
+Bournemouth,Liverpool,False,3,3
+Liverpool,Bournemouth,True,5,1
+Man City,Newcastle,True,3,3
+Newcastle,Man City,False,1,5
+Sheffield Utd,Nott'm Forest,False,1,5
+Nott'm Forest,Sheffield Utd,True,4,2
+Man Utd,Spurs,False,1,5
+Spurs,Man Utd,True,4,2
+Chelsea,West Ham,False,2,4
+West Ham,Chelsea,True,5,1
+Brighton,Wolves,False,2,4
+Wolves,Brighton,True,5,1
+Arsenal,Fulham,True,4,2
+Fulham,Arsenal,False,1,5
+Bournemouth,Spurs,True,5,1
+Spurs,Bournemouth,False,3,3
+Brentford,Crystal Palace,True,5,1
+Crystal Palace,Brentford,False,1,5
+Brighton,West Ham,True,4,2
+West Ham,Brighton,False,1,5
+Aston Villa,Burnley,False,1,5
+Burnley,Aston Villa,True,4,2
+Luton,Chelsea,False,2,4
+Chelsea,Luton,True,5,1
+Wolves,Everton,False,1,5
+Everton,Wolves,True,5,1
+Man Utd,Nott'm Forest,True,5,1
+Nott'm Forest,Man Utd,False,1,5
+Newcastle,Liverpool,True,3,3
+Liverpool,Newcastle,False,1,5
+Sheffield Utd,Man City,True,5,1
+Man City,Sheffield Utd,False,3,3
+Man Utd,Arsenal,False,1,5
+Arsenal,Man Utd,True,5,1
+Brentford,Bournemouth,True,4,2
+Bournemouth,Brentford,False,1,5
+Brighton,Newcastle,True,4,2
+Newcastle,Brighton,False,1,5
+Burnley,Spurs,True,5,1
+Spurs,Burnley,False,1,5
+Chelsea,Nott'm Forest,True,3,3
+Nott'm Forest,Chelsea,False,1,5
+Wolves,Crystal Palace,False,2,4
+Crystal Palace,Wolves,True,5,1
+Liverpool,Aston Villa,True,5,1
+Aston Villa,Liverpool,False,2,4
+Luton,West Ham,True,2,4
+West Ham,Luton,False,1,5
+Man City,Fulham,True,5,1
+Fulham,Man City,False,3,3
+Sheffield Utd,Everton,True,5,1
+Everton,Sheffield Utd,False,1,5
+Aston Villa,Crystal Palace,True,3,3
+Crystal Palace,Aston Villa,False,1,5
+Bournemouth,Chelsea,True,4,2
+Chelsea,Bournemouth,False,1,5
+Arsenal,Everton,False,3,3
+Everton,Arsenal,True,5,1
+Luton,Fulham,False,3,3
+Fulham,Luton,True,5,1
+Brighton,Man Utd,False,3,3
+Man Utd,Brighton,True,5,1
+Brentford,Newcastle,False,1,5
+Newcastle,Brentford,True,2,4
+Nott'm Forest,Burnley,True,5,1
+Burnley,Nott'm Forest,False,3,3
+Sheffield Utd,Spurs,False,3,3
+Spurs,Sheffield Utd,True,5,1
+Man City,West Ham,False,1,5
+West Ham,Man City,True,4,2
+Wolves,Liverpool,True,5,1
+Liverpool,Wolves,False,2,4
+Arsenal,Spurs,True,3,3
+Spurs,Arsenal,False,1,5
+Brentford,Everton,True,3,3
+Everton,Brentford,False,1,5
+Brighton,Bournemouth,True,5,1
+Bournemouth,Brighton,False,2,4
+Man Utd,Burnley,False,1,5
+Burnley,Man Utd,True,2,4
+Chelsea,Aston Villa,True,5,1
+Aston Villa,Chelsea,False,3,3
+Crystal Palace,Fulham,True,5,1
+Fulham,Crystal Palace,False,2,4
+Liverpool,West Ham,True,5,1
+West Ham,Liverpool,False,1,5
+Wolves,Luton,False,1,5
+Luton,Wolves,True,4,2
+Nott'm Forest,Man City,False,3,3
+Man City,Nott'm Forest,True,5,1
+Sheffield Utd,Newcastle,True,5,1
+Newcastle,Sheffield Utd,False,3,3
+Luton,Burnley,True,5,1
+Burnley,Luton,False,3,3
+Brighton,Aston Villa,False,2,4
+Aston Villa,Brighton,True,5,1
+Bournemouth,Arsenal,True,5,1
+Arsenal,Bournemouth,False,1,5
+Luton,Everton,False,1,5
+Everton,Luton,True,3,3
+Chelsea,Fulham,False,1,5
+Fulham,Chelsea,True,5,1
+Man Utd,Crystal Palace,True,5,1
+Crystal Palace,Man Utd,False,1,5
+Newcastle,Burnley,True,5,1
+Burnley,Newcastle,False,1,5
+Nott'm Forest,Brentford,True,4,2
+Brentford,Nott'm Forest,False,1,5
+Liverpool,Spurs,False,1,5
+Spurs,Liverpool,True,3,3
+Sheffield Utd,West Ham,False,1,5
+West Ham,Sheffield Utd,True,5,1
+Man City,Wolves,False,1,5
+Wolves,Man City,True,5,1
+Man City,Arsenal,False,2,4
+Arsenal,Man City,True,5,1
+Brighton,Liverpool,True,5,1
+Liverpool,Brighton,False,5,1
+Chelsea,Burnley,False,1,5
+Burnley,Chelsea,True,3,3
+Nott'm Forest,Crystal Palace,False,2,4
+Crystal Palace,Nott'm Forest,True,5,1
+Bournemouth,Everton,False,1,5
+Everton,Bournemouth,True,5,1
+Sheffield Utd,Fulham,False,1,5
+Fulham,Sheffield Utd,True,5,1
+Luton,Spurs,True,4,2
+Spurs,Luton,False,1,5
+Man Utd,Brentford,True,5,1
+Brentford,Man Utd,False,3,3
+Newcastle,West Ham,False,1,5
+West Ham,Newcastle,True,3,3
+Wolves,Aston Villa,True,5,1
+Aston Villa,Wolves,False,1,5
+Aston Villa,West Ham,True,5,1
+West Ham,Aston Villa,False,1,5
+Bournemouth,Wolves,True,5,1
+Wolves,Bournemouth,False,1,5
+Brentford,Burnley,True,5,1
+Burnley,Brentford,False,2,4
+Chelsea,Arsenal,True,5,1
+Arsenal,Chelsea,False,4,2
+Liverpool,Everton,True,5,1
+Everton,Liverpool,False,3,3
+Brighton,Man City,False,3,3
+Man City,Brighton,True,5,1
+Newcastle,Crystal Palace,True,4,2
+Crystal Palace,Newcastle,False,1,5
+Nott'm Forest,Luton,True,5,1
+Luton,Nott'm Forest,False,1,5
+Man Utd,Sheffield Utd,False,1,5
+Sheffield Utd,Man Utd,True,5,1
+Spurs,Fulham,True,4,2
+Fulham,Spurs,False,1,5
+Sheffield Utd,Arsenal,False,3,3
+Arsenal,Sheffield Utd,True,5,1
+Luton,Aston Villa,False,1,5
+Aston Villa,Luton,True,3,3
+Bournemouth,Burnley,True,5,1
+Burnley,Bournemouth,False,1,5
+Brighton,Fulham,True,3,3
+Fulham,Brighton,False,1,5
+Brentford,Chelsea,False,3,3
+Chelsea,Brentford,True,5,1
+Crystal Palace,Spurs,True,5,1
+Spurs,Crystal Palace,False,3,3
+Nott'm Forest,Liverpool,False,3,3
+Liverpool,Nott'm Forest,True,5,1
+Man Utd,Man City,True,5,1
+Man City,Man Utd,False,1,5
+West Ham,Everton,True,4,2
+Everton,West Ham,False,1,5
+Newcastle,Wolves,False,4,2
+Wolves,Newcastle,True,5,1
+Brentford,West Ham,True,5,1
+West Ham,Brentford,False,1,5
+Burnley,Crystal Palace,True,5,1
+Crystal Palace,Burnley,False,2,4
+Brighton,Everton,False,2,4
+Everton,Brighton,True,5,1
+Man Utd,Fulham,False,1,5
+Fulham,Man Utd,True,1,5
+Luton,Liverpool,True,4,2
+Liverpool,Luton,False,1,5
+Bournemouth,Man City,False,1,5
+Man City,Bournemouth,True,4,2
+Newcastle,Arsenal,True,5,1
+Arsenal,Newcastle,False,5,1
+Nott'm Forest,Aston Villa,True,5,1
+Aston Villa,Nott'm Forest,False,1,5
+Sheffield Utd,Wolves,True,5,1
+Wolves,Sheffield Utd,False,3,3
+Chelsea,Spurs,False,1,5
+Spurs,Chelsea,True,5,1
+Burnley,Arsenal,False,2,4
+Arsenal,Burnley,True,5,1
+Aston Villa,Fulham,True,5,1
+Fulham,Aston Villa,False,1,5
+Bournemouth,Newcastle,True,5,1
+Newcastle,Bournemouth,False,1,5
+Brighton,Sheffield Utd,True,5,1
+Sheffield Utd,Brighton,False,2,4
+Man City,Chelsea,False,1,5
+Chelsea,Man City,True,5,1
+Crystal Palace,Everton,True,4,2
+Everton,Crystal Palace,False,1,5
+Brentford,Liverpool,False,1,5
+Liverpool,Brentford,True,3,3
+Man Utd,Luton,True,5,1
+Luton,Man Utd,False,2,4
+Nott'm Forest,West Ham,False,2,4
+West Ham,Nott'm Forest,True,5,1
+Wolves,Spurs,True,5,1
+Spurs,Wolves,False,4,2
+Brentford,Arsenal,True,3,3
+Arsenal,Brentford,False,1,5
+Burnley,West Ham,True,5,1
+West Ham,Burnley,False,2,4
+Man Utd,Everton,False,2,4
+Everton,Man Utd,True,5,1
+Wolves,Fulham,False,1,5
+Fulham,Wolves,True,5,1
+Luton,Crystal Palace,True,5,1
+Crystal Palace,Luton,False,1,5
+Man City,Liverpool,True,3,3
+Liverpool,Man City,False,1,5
+Newcastle,Chelsea,True,5,1
+Chelsea,Newcastle,False,1,5
+Brighton,Nott'm Forest,False,1,5
+Nott'm Forest,Brighton,True,4,2
+Sheffield Utd,Bournemouth,True,4,2
+Bournemouth,Sheffield Utd,False,1,5
+Aston Villa,Spurs,False,1,5
+Spurs,Aston Villa,True,4,2
+Wolves,Arsenal,False,2,4
+Arsenal,Wolves,True,5,1
+Bournemouth,Aston Villa,True,3,3
+Aston Villa,Bournemouth,False,1,5
+Brentford,Luton,True,5,1
+Luton,Brentford,False,1,5
+Sheffield Utd,Burnley,False,1,5
+Burnley,Sheffield Utd,True,3,3
+Brighton,Chelsea,False,1,5
+Chelsea,Brighton,True,4,2
+Liverpool,Fulham,True,5,1
+Fulham,Liverpool,False,3,3
+Man City,Spurs,True,4,2
+Spurs,Man City,False,1,5
+Man Utd,Newcastle,False,1,5
+Newcastle,Man Utd,True,1,5
+Nott'm Forest,Everton,True,5,1
+Everton,Nott'm Forest,False,3,3
+Crystal Palace,West Ham,False,1,5
+West Ham,Crystal Palace,True,2,4
+Man City,Aston Villa,False,3,3
+Aston Villa,Man City,True,5,1
+Brighton,Brentford,True,5,1
+Brentford,Brighton,False,2,4
+Bournemouth,Crystal Palace,False,1,5
+Crystal Palace,Bournemouth,True,4,2
+Newcastle,Everton,False,1,5
+Everton,Newcastle,True,5,1
+Nott'm Forest,Fulham,False,3,3
+Fulham,Nott'm Forest,True,5,1
+Luton,Arsenal,True,5,1
+Arsenal,Luton,False,1,5
+Sheffield Utd,Liverpool,True,5,1
+Liverpool,Sheffield Utd,False,3,3
+West Ham,Spurs,False,1,5
+Spurs,West Ham,True,4,2
+Wolves,Burnley,True,4,2
+Burnley,Wolves,False,1,5
+Man Utd,Chelsea,True,5,1
+Chelsea,Man Utd,False,2,4
+Aston Villa,Arsenal,True,4,2
+Arsenal,Aston Villa,False,1,5
+Brighton,Burnley,True,5,1
+Burnley,Brighton,False,2,4
+Liverpool,Crystal Palace,False,1,5
+Crystal Palace,Liverpool,True,3,3
+Chelsea,Everton,False,2,4
+Everton,Chelsea,True,5,1
+West Ham,Fulham,False,2,4
+Fulham,West Ham,True,5,1
+Man City,Luton,False,2,4
+Luton,Man City,True,5,1
+Man Utd,Bournemouth,True,5,1
+Bournemouth,Man Utd,False,3,3
+Sheffield Utd,Brentford,True,5,1
+Brentford,Sheffield Utd,False,3,3
+Newcastle,Spurs,False,1,5
+Spurs,Newcastle,True,5,1
+Nott'm Forest,Wolves,False,1,5
+Wolves,Nott'm Forest,True,3,3
+Brighton,Arsenal,False,1,5
+Arsenal,Brighton,True,3,3
+Brentford,Aston Villa,True,5,1
+Aston Villa,Brentford,False,2,4
+Burnley,Everton,True,5,1
+Everton,Burnley,False,2,4
+Sheffield Utd,Chelsea,False,1,5
+Chelsea,Sheffield Utd,True,4,2
+Man Utd,Liverpool,False,3,3
+Liverpool,Man Utd,True,5,1
+Man City,Crystal Palace,True,5,1
+Crystal Palace,Man City,False,1,5
+Newcastle,Fulham,True,5,1
+Fulham,Newcastle,False,2,4
+Nott'm Forest,Spurs,True,5,1
+Spurs,Nott'm Forest,False,2,4
+Wolves,West Ham,False,1,5
+West Ham,Wolves,True,3,3
+Sheffield Utd,Aston Villa,False,2,4
+Aston Villa,Sheffield Utd,True,5,1
+Brighton,Crystal Palace,False,2,4
+Crystal Palace,Brighton,True,5,1
+Burnley,Fulham,False,1,5
+Fulham,Burnley,True,4,2
+Liverpool,Arsenal,True,5,1
+Arsenal,Liverpool,False,3,3
+Newcastle,Luton,False,1,5
+Luton,Newcastle,True,3,3
+Nott'm Forest,Bournemouth,True,3,3
+Bournemouth,Nott'm Forest,False,1,5
+Spurs,Everton,True,3,3
+Everton,Spurs,False,1,5
+Man Utd,West Ham,False,1,5
+West Ham,Man Utd,True,3,3
+Wolves,Chelsea,True,3,3
+Chelsea,Wolves,False,1,5
+Arsenal,West Ham,True,3,3
+West Ham,Arsenal,False,1,5
+Bournemouth,Fulham,True,5,1
+Fulham,Bournemouth,False,1,5
+Brentford,Wolves,True,3,3
+Wolves,Brentford,False,1,5
+Brighton,Spurs,True,5,1
+Spurs,Brighton,False,3,3
+Liverpool,Burnley,False,3,3
+Burnley,Liverpool,True,5,1
+Chelsea,Crystal Palace,True,5,1
+Crystal Palace,Chelsea,False,1,5
+Man City,Everton,False,1,5
+Everton,Man City,True,4,2
+Man Utd,Aston Villa,True,4,2
+Aston Villa,Man Utd,False,1,5
+Nott'm Forest,Newcastle,False,1,5
+Newcastle,Nott'm Forest,True,4,2
+Sheffield Utd,Luton,True,4,2
+Luton,Sheffield Utd,False,1,5
+Aston Villa,Burnley,True,3,3
+Burnley,Aston Villa,False,1,5
+Brentford,Crystal Palace,False,1,5
+Crystal Palace,Brentford,True,3,3
+Arsenal,Fulham,False,1,5
+Fulham,Arsenal,True,5,1
+Newcastle,Liverpool,False,2,4
+Liverpool,Newcastle,True,5,1
+Luton,Chelsea,True,3,3
+Chelsea,Luton,False,1,5
+Sheffield Utd,Man City,False,1,5
+Man City,Sheffield Utd,True,4,2
+Man Utd,Nott'm Forest,False,1,5
+Nott'm Forest,Man Utd,True,5,1
+Bournemouth,Spurs,False,1,5
+Spurs,Bournemouth,True,3,3
+Brighton,West Ham,False,1,5
+West Ham,Brighton,True,5,1
+Wolves,Everton,True,5,1
+Everton,Wolves,False,3,3
+Arsenal,Crystal Palace,True,5,1
+Crystal Palace,Arsenal,False,3,3
+Bournemouth,Liverpool,True,5,1
+Liverpool,Bournemouth,False,3,3
+Nott'm Forest,Brentford,False,2,4
+Brentford,Nott'm Forest,True,5,1
+Brighton,Wolves,True,2,4
+Wolves,Brighton,False,1,5
+Luton,Burnley,False,3,3
+Burnley,Luton,True,5,1
+Chelsea,Fulham,True,5,1
+Fulham,Chelsea,False,3,3
+Aston Villa,Everton,False,1,5
+Everton,Aston Villa,True,5,1
+Man Utd,Spurs,True,5,1
+Spurs,Man Utd,False,3,3
+Man City,Newcastle,False,4,2
+Newcastle,Man City,True,5,1
+Sheffield Utd,West Ham,True,5,1
+West Ham,Sheffield Utd,False,4,2
+Newcastle,Aston Villa,False,1,5
+Aston Villa,Newcastle,True,5,1
+Sheffield Utd,Crystal Palace,False,3,3
+Crystal Palace,Sheffield Utd,True,5,1
+Everton,Fulham,False,2,4
+Fulham,Everton,True,5,1
+Brighton,Luton,False,1,5
+Luton,Brighton,True,5,1
+Nott'm Forest,Arsenal,True,5,1
+Arsenal,Nott'm Forest,False,3,3
+Brentford,Spurs,False,2,4
+Spurs,Brentford,True,5,1
+Bournemouth,West Ham,False,1,5
+West Ham,Bournemouth,True,4,2
+Man Utd,Wolves,False,1,5
+Wolves,Man Utd,True,5,1
+Liverpool,Chelsea,True,3,3
+Chelsea,Liverpool,False,1,5
+Man City,Burnley,True,5,1
+Burnley,Man City,False,3,3
+Liverpool,Arsenal,False,1,5
+Arsenal,Liverpool,True,5,1
+Nott'm Forest,Bournemouth,False,1,5
+Bournemouth,Nott'm Forest,True,3,3
+Brentford,Man City,True,5,1
+Man City,Brentford,False,2,4
+Brighton,Crystal Palace,True,5,1
+Crystal Palace,Brighton,False,3,3
+Burnley,Fulham,True,5,1
+Fulham,Burnley,False,2,4
+Wolves,Chelsea,False,1,5
+Chelsea,Wolves,True,5,1
+Spurs,Everton,False,1,5
+Everton,Spurs,True,5,1
+Man Utd,West Ham,True,4,2
+West Ham,Man Utd,False,1,5
+Newcastle,Luton,True,5,1
+Luton,Newcastle,False,4,2
+Sheffield Utd,Aston Villa,True,5,1
+Aston Villa,Sheffield Utd,False,1,5
+Man Utd,Aston Villa,False,1,5
+Aston Villa,Man Utd,True,5,1
+Chelsea,Crystal Palace,False,1,5
+Crystal Palace,Chelsea,True,5,1
+Bournemouth,Fulham,False,1,5
+Fulham,Bournemouth,True,3,3
+Liverpool,Burnley,True,2,4
+Burnley,Liverpool,False,1,5
+Sheffield Utd,Luton,False,3,3
+Luton,Sheffield Utd,True,5,1
+Man City,Everton,True,3,3
+Everton,Man City,False,1,5
+Nott'm Forest,Newcastle,True,5,1
+Newcastle,Nott'm Forest,False,3,3
+Brighton,Spurs,False,2,4
+Spurs,Brighton,True,5,1
+West Ham,Arsenal,True,3,3
+Arsenal,West Ham,False,1,5
+Brentford,Wolves,False,1,5
+Wolves,Brentford,True,4,2
+Brentford,Man City,False,2,4
+Man City,Brentford,True,5,1
+Brentford,Liverpool,True,4,2
+Liverpool,Brentford,False,1,5
+Burnley,Arsenal,True,3,3
+Arsenal,Burnley,False,1,5
+Crystal Palace,Everton,False,1,5
+Everton,Crystal Palace,True,3,3
+Aston Villa,Fulham,False,1,5
+Fulham,Aston Villa,True,5,1
+Man Utd,Luton,False,3,3
+Luton,Man Utd,True,5,1
+Man City,Chelsea,True,5,1
+Chelsea,Man City,False,3,3
+Bournemouth,Newcastle,False,1,5
+Newcastle,Bournemouth,True,5,1
+Nott'm Forest,West Ham,True,5,1
+West Ham,Nott'm Forest,False,2,4
+Brighton,Sheffield Utd,False,1,5
+Sheffield Utd,Brighton,True,2,4
+Wolves,Spurs,False,1,5
+Spurs,Wolves,True,3,3
+Luton,Liverpool,False,1,5
+Liverpool,Luton,True,5,1
+Newcastle,Arsenal,False,1,5
+Arsenal,Newcastle,True,3,3
+Nott'm Forest,Aston Villa,False,1,5
+Aston Villa,Nott'm Forest,True,4,2
+Bournemouth,Man City,True,3,3
+Man City,Bournemouth,False,1,5
+Brighton,Everton,True,5,1
+Everton,Brighton,False,1,5
+Burnley,Crystal Palace,False,1,5
+Crystal Palace,Burnley,True,3,3
+Man Utd,Fulham,True,2,4
+Fulham,Man Utd,False,1,5
+Brentford,West Ham,False,1,5
+West Ham,Brentford,True,5,1
+Sheffield Utd,Wolves,False,1,5
+Wolves,Sheffield Utd,True,4,2
+Brentford,Chelsea,True,5,1
+Chelsea,Brentford,False,3,3
+Bournemouth,Burnley,False,1,5
+Burnley,Bournemouth,True,3,3
+West Ham,Everton,False,1,5
+Everton,West Ham,True,5,1
+Brighton,Fulham,False,1,5
+Fulham,Brighton,True,3,3
+Luton,Aston Villa,True,5,1
+Aston Villa,Luton,False,3,3
+Man Utd,Man City,False,1,5
+Man City,Man Utd,True,4,2
+Newcastle,Wolves,True,5,1
+Wolves,Newcastle,False,2,4
+Nott'm Forest,Liverpool,True,5,1
+Liverpool,Nott'm Forest,False,2,4
+Sheffield Utd,Arsenal,True,5,1
+Arsenal,Sheffield Utd,False,3,3
+Crystal Palace,Spurs,False,1,5
+Spurs,Crystal Palace,True,4,2
+Bournemouth,Luton,True,5,1
+Luton,Bournemouth,False,1,5
+Brentford,Arsenal,False,1,5
+Arsenal,Brentford,True,4,2
+Aston Villa,Spurs,True,3,3
+Spurs,Aston Villa,False,1,5
+Sheffield Utd,Bournemouth,False,2,4
+Bournemouth,Sheffield Utd,True,5,1
+Brighton,Nott'm Forest,True,4,2
+Nott'm Forest,Brighton,False,1,5
+Newcastle,Chelsea,False,3,3
+Chelsea,Newcastle,True,5,1
+Luton,Crystal Palace,False,1,5
+Crystal Palace,Luton,True,4,2
+Man City,Liverpool,False,4,2
+Liverpool,Man City,True,5,1
+Man Utd,Everton,True,5,1
+Everton,Man Utd,False,1,5
+West Ham,Burnley,True,5,1
+Burnley,West Ham,False,3,3
+Wolves,Fulham,True,4,2
+Fulham,Wolves,False,1,5
+Brentford,Burnley,False,1,5
+Burnley,Brentford,True,5,1
+Spurs,Fulham,False,2,4
+Fulham,Spurs,True,5,1
+Nott'm Forest,Luton,False,1,5
+Luton,Nott'm Forest,True,3,3
+Aston Villa,West Ham,False,1,5
+West Ham,Aston Villa,True,4,2
+Wolves,Aston Villa,False,1,5
+Aston Villa,Wolves,True,5,1
+Bournemouth,Everton,True,5,1
+Everton,Bournemouth,False,3,3
+Man Utd,Brentford,False,2,4
+Brentford,Man Utd,True,5,1
+Chelsea,Burnley,True,5,1
+Burnley,Chelsea,False,2,4
+Brighton,Liverpool,False,3,3
+Liverpool,Brighton,True,5,1
+Man City,Arsenal,True,5,1
+Arsenal,Man City,False,3,3
+Newcastle,West Ham,True,5,1
+West Ham,Newcastle,False,1,5
+Nott'm Forest,Crystal Palace,True,5,1
+Crystal Palace,Nott'm Forest,False,1,5
+Sheffield Utd,Fulham,True,5,1
+Fulham,Sheffield Utd,False,1,5
+Luton,Spurs,False,2,4
+Spurs,Luton,True,5,1
+Luton,Arsenal,False,1,5
+Arsenal,Luton,True,3,3
+Bournemouth,Crystal Palace,True,4,2
+Crystal Palace,Bournemouth,False,1,5
+Brighton,Brentford,False,3,3
+Brentford,Brighton,True,5,1
+Wolves,Burnley,False,1,5
+Burnley,Wolves,True,3,3
+Nott'm Forest,Fulham,True,5,1
+Fulham,Nott'm Forest,False,1,5
+West Ham,Spurs,True,5,1
+Spurs,West Ham,False,3,3
+Man Utd,Chelsea,False,3,3
+Chelsea,Man Utd,True,5,1
+Sheffield Utd,Liverpool,False,1,5
+Liverpool,Sheffield Utd,True,4,2
+Man City,Aston Villa,True,5,1
+Aston Villa,Man City,False,1,5
+Newcastle,Everton,True,5,1
+Everton,Newcastle,False,3,3
+Brentford,Aston Villa,False,1,5
+Aston Villa,Brentford,True,3,3
+Brighton,Arsenal,True,5,1
+Arsenal,Brighton,False,3,3
+Man City,Crystal Palace,False,3,3
+Crystal Palace,Man City,True,5,1
+Burnley,Everton,False,1,5
+Everton,Burnley,True,3,3
+Newcastle,Fulham,False,1,5
+Fulham,Newcastle,True,5,1
+Bournemouth,Luton,False,2,4
+Luton,Bournemouth,True,5,1
+Man Utd,Liverpool,True,5,1
+Liverpool,Man Utd,False,3,3
+Sheffield Utd,Chelsea,True,5,1
+Chelsea,Sheffield Utd,False,4,2
+Nott'm Forest,Spurs,False,1,5
+Spurs,Nott'm Forest,True,4,2
+Wolves,West Ham,True,4,2
+West Ham,Wolves,False,1,5
+Aston Villa,Arsenal,False,1,5
+Arsenal,Aston Villa,True,5,1
+Man Utd,Bournemouth,False,3,3
+Bournemouth,Man Utd,True,5,1
+Sheffield Utd,Brentford,False,3,3
+Brentford,Sheffield Utd,True,5,1
+Brighton,Burnley,False,2,4
+Burnley,Brighton,True,5,1
+Chelsea,Everton,True,3,3
+Everton,Chelsea,False,1,5
+Liverpool,Crystal Palace,True,5,1
+Crystal Palace,Liverpool,False,3,3
+Man City,Luton,True,5,1
+Luton,Man City,False,1,5
+Newcastle,Spurs,True,5,1
+Spurs,Newcastle,False,4,2
+Nott'm Forest,Wolves,True,4,2
+Wolves,Nott'm Forest,False,1,5
+West Ham,Fulham,True,4,2
+Fulham,West Ham,False,1,5
+Chelsea,Arsenal,False,1,5
+Arsenal,Chelsea,True,5,1
+Brighton,Man City,True,4,2
+Man City,Brighton,False,1,5
+Newcastle,Crystal Palace,False,1,5
+Crystal Palace,Newcastle,True,4,2
+Liverpool,Everton,False,2,4
+Everton,Liverpool,True,5,1
+Man Utd,Sheffield Utd,True,5,1
+Sheffield Utd,Man Utd,False,4,2
+Bournemouth,Wolves,False,1,5
+Wolves,Bournemouth,True,3,3
+Bournemouth,Aston Villa,False,3,3
+Aston Villa,Bournemouth,True,5,1
+West Ham,Crystal Palace,False,1,5
+Crystal Palace,West Ham,True,3,3
+Nott'm Forest,Everton,False,1,5
+Everton,Nott'm Forest,True,4,2
+Liverpool,Fulham,False,3,3
+Fulham,Liverpool,True,5,1
+Brentford,Luton,False,1,5
+Luton,Brentford,True,5,1
+Sheffield Utd,Burnley,True,3,3
+Burnley,Sheffield Utd,False,1,5
+Wolves,Arsenal,True,5,1
+Arsenal,Wolves,False,3,3
+Chelsea,Spurs,True,5,1
+Spurs,Chelsea,False,1,5
+Chelsea,Aston Villa,False,1,5
+Aston Villa,Chelsea,True,5,1
+Brighton,Bournemouth,False,1,5
+Bournemouth,Brighton,True,5,1
+Brentford,Everton,False,1,5
+Everton,Brentford,True,5,1
+Crystal Palace,Fulham,False,2,4
+Fulham,Crystal Palace,True,5,1
+Man Utd,Burnley,True,5,1
+Burnley,Man Utd,False,3,3
+Sheffield Utd,Newcastle,False,1,5
+Newcastle,Sheffield Utd,True,4,2
+Nott'm Forest,Man City,True,4,2
+Man City,Nott'm Forest,False,1,5
+Arsenal,Spurs,False,3,3
+Spurs,Arsenal,True,5,1
+Liverpool,West Ham,False,3,3
+West Ham,Liverpool,True,5,1
+Wolves,Luton,True,5,1
+Luton,Wolves,False,1,5
+Bournemouth,Arsenal,False,1,5
+Arsenal,Bournemouth,True,5,1
+Brentford,Fulham,True,5,1
+Fulham,Brentford,False,3,3
+Brighton,Aston Villa,True,5,1
+Aston Villa,Brighton,False,3,3
+Newcastle,Burnley,False,1,5
+Burnley,Newcastle,True,3,3
+Chelsea,West Ham,True,5,1
+West Ham,Chelsea,False,1,5
+Man Utd,Crystal Palace,False,5,1
+Crystal Palace,Man Utd,True,5,1
+Liverpool,Spurs,True,5,1
+Spurs,Liverpool,False,2,4
+Luton,Everton,True,4,2
+Everton,Luton,False,1,5
+Man City,Wolves,True,5,1
+Wolves,Man City,False,2,4
+Nott'm Forest,Sheffield Utd,False,1,5
+Sheffield Utd,Nott'm Forest,True,5,1
+Brighton,Chelsea,True,3,3
+Chelsea,Brighton,False,1,5
+Man Utd,Newcastle,True,5,1
+Newcastle,Man Utd,False,5,1
+Man City,Spurs,False,3,3
+Spurs,Man City,True,5,1
+Liverpool,Aston Villa,False,2,4
+Aston Villa,Liverpool,True,5,1
+Brentford,Bournemouth,False,1,5
+Bournemouth,Brentford,True,2,4
+Sheffield Utd,Everton,False,2,4
+Everton,Sheffield Utd,True,5,1
+Man City,Fulham,False,1,5
+Fulham,Man City,True,4,2
+Man Utd,Arsenal,True,5,1
+Arsenal,Man Utd,False,2,4
+Brighton,Newcastle,False,3,3
+Newcastle,Brighton,True,5,1
+Nott'm Forest,Chelsea,True,5,1
+Chelsea,Nott'm Forest,False,3,3
+Burnley,Spurs,False,1,5
+Spurs,Burnley,True,4,2
+Luton,West Ham,False,1,5
+West Ham,Luton,True,4,2
+Wolves,Crystal Palace,True,5,1
+Crystal Palace,Wolves,False,4,2
+Arsenal,Everton,True,5,1
+Everton,Arsenal,False,3,3
+Brentford,Newcastle,True,4,2
+Newcastle,Brentford,False,1,5
+Brighton,Man Utd,True,5,1
+Man Utd,Brighton,False,4,2
+Nott'm Forest,Burnley,False,1,5
+Burnley,Nott'm Forest,True,1,5
+Bournemouth,Chelsea,False,1,5
+Chelsea,Bournemouth,True,5,1
+Aston Villa,Crystal Palace,False,1,5
+Crystal Palace,Aston Villa,True,3,3
+Wolves,Liverpool,False,3,3
+Liverpool,Wolves,True,5,1
+Luton,Fulham,True,4,2
+Fulham,Luton,False,1,5
+Man City,West Ham,True,4,2
+West Ham,Man City,False,1,5
+Sheffield Utd,Spurs,True,5,1
+Spurs,Sheffield Utd,False,5,1
